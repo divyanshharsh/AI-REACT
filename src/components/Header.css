@@ -1,0 +1,35 @@
+/* Header.css */
+
+/* Header container */
+.header {
+    background-color: #dcb8b8;
+    color: #023ded;
+    padding: 20px 0;
+  }
+  
+  /* Navigation menu */
+  .nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* List items in the navigation menu */
+  .nav-item {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  /* Styling for links in the navigation menu */
+  .nav-link {
+    text-decoration: none;
+    color: #0d0d06;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Change link color on hover */
+  }
+  
